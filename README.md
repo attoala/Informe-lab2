@@ -36,7 +36,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab1.PNG"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -51,7 +51,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
 
  <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab 2.PNG"
           alt=""
           height="300"
           style ="float-left ml-4"
@@ -70,7 +70,7 @@ Descripción de los equipos y materiales**
 **Fuente de voltaje C.D.** Es de donde conseguir electricidad para el circuito
 <section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab3.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -84,7 +84,7 @@ Descripción de los equipos y materiales**
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab4.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -97,7 +97,7 @@ Descripción de los equipos y materiales**
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab5.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -108,7 +108,7 @@ Descripción de los equipos y materiales**
 **Protoboard.** Es la base en la cual se va a formar el circuito con los elementos de este.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab6.PNG"
           alt=""
           height="100"
           style ="float-left ml-4"
@@ -149,7 +149,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/13.jpg"
+        <img src="img/lab7.PNG"
           alt="listado de todos los componentes utilizados para el circuito"
           height="400"
           style ="float-left ml-4"
