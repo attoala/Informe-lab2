@@ -38,7 +38,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
       <div class="container mt-5 mb-5">
         <img src="img/lab1.PNG"
           alt=""
-          height="300"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
@@ -53,7 +53,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
       <div class="container mt-5 mb-5">
         <img src="img/lab 2.PNG"
           alt=""
-          height="300"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
@@ -151,7 +151,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
       <div class="container mt-5 mb-5">
         <img src="img/lab7.PNG"
           alt="listado de todos los componentes utilizados para el circuito"
-          height="400"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
