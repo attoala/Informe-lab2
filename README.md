@@ -122,7 +122,7 @@ Descripción de los equipos y materiales**
 Arme el circuito que se muestra en la figura 2.1.
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lab9.PNG"
           alt=""
           height="200"
           style ="float-left ml-4"
@@ -182,7 +182,7 @@ Para un comprension  total de todo lo impartido en fundamentos de circuitos elec
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/14.PNG"
+        <img src="img/lab8.PNG"
           alt="Cronograma de actividades del informe"
           height="400"
           style ="float-left ml-4"
