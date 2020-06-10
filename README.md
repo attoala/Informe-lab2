@@ -38,7 +38,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
       <div class="container mt-5 mb-5">
         <img src="img/lab1.PNG"
           alt=""
-          height="200"
+          height="150"
           style ="float-left ml-4"
         />           
    </div>
@@ -53,7 +53,7 @@ Así como la ley de Kirchhoff de corriente se utiliza en los nodos para encontra
       <div class="container mt-5 mb-5">
         <img src="img/lab 2.PNG"
           alt=""
-          height="200"
+          height="150"
           style ="float-left ml-4"
         />           
    </div>
@@ -72,7 +72,7 @@ Descripción de los equipos y materiales**
       <div class="container mt-5 mb-5">
         <img src="img/lab3.PNG"
           alt=""
-          height="100"
+          height="98"
           style ="float-left ml-4"
         />           
    </div>
@@ -86,7 +86,7 @@ Descripción de los equipos y materiales**
       <div class="container mt-5 mb-5">
         <img src="img/lab4.PNG"
           alt=""
-          height="100"
+          height="98"
           style ="float-left ml-4"
         />           
    </div>
@@ -99,7 +99,7 @@ Descripción de los equipos y materiales**
       <div class="container mt-5 mb-5">
         <img src="img/lab5.PNG"
           alt=""
-          height="100"
+          height="98"
           style ="float-left ml-4"
         />           
    </div>
@@ -110,7 +110,7 @@ Descripción de los equipos y materiales**
       <div class="container mt-5 mb-5">
         <img src="img/lab6.PNG"
           alt=""
-          height="100"
+          height="98"
           style ="float-left ml-4"
         />           
    </div>
