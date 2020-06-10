@@ -184,7 +184,7 @@ Para un comprension  total de todo lo impartido en fundamentos de circuitos elec
       <div class="container mt-5 mb-5">
         <img src="img/lab8.PNG"
           alt="Cronograma de actividades del informe"
-          height="400"
+          height="200"
           style ="float-left ml-4"
         />           
    </div>
