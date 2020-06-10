@@ -146,7 +146,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 ## **DIAGRAMAS**
 </section>
       <div class="container mt-5 mb-5">
-        <img src="https://cdn.glitch.com/a7d4561e-bb3e-4916-95fd-cc07aab571ec%2Fb55b21e87e81b79c1b8a18acf92e443f.jpg?v=1590115958949"
+        <img src="img/lap10.PNG"
           alt=""
           height="200"
           style ="float-left ml-4"
