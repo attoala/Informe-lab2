@@ -156,8 +156,10 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
    
 ## **MAPA DE VARIABLES**
 
+
    **Resistores**: de 1(kΩ), 2.2(kΩ), 1.2(kΩ), 390(Ω) y 820(Ω). 
-    **Fuentes**: de 18[V] y 5[V]
+   
+   **Fuentes**: de 18[V] y 5[V].
     
 ## **DESCRIPCIÓN**
 Crear una cuenta de Tinkercad y generar la simulación de la practica 2
